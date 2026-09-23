@@ -107,9 +107,9 @@ Institutional site built as a college extension project, Digital Design, Fatec.
 <div align="center">
 
 <!-- Substitua pelos seus links reais -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK-HERE)
-[![Instagram](https://img.shields.io/badge/Instagram-2563eb?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-LINK-HERE)
-[![Gmail](https://img.shields.io/badge/Gmail-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaiquednzz)
+[![Instagram](https://img.shields.io/badge/Instagram-2563eb?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaiquednzz)
+[![Gmail](https://img.shields.io/badge/Gmail-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiquednzz@gmail.com)
 
 </div>
 
