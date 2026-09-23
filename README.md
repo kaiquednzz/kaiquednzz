@@ -1,85 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:00c896&height=200&section=header&text=Kaique%20Diniz&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20Developer%20em%20forma%C3%A7%C3%A3o&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1128,100:2563eb&height=200&section=header&text=Kaique%20Dev&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20%26%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/kaiquednzz">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Sistemas+para+Internet+(Fatec);Focado+em+HTML,+CSS+%26+JavaScript;Sempre+construindo+algo+novo+%F0%9F%9A%80&font=Fira%20Code&center=true&width=500&height=45&color=00c896&vCenter=true&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+web+%26+mobile+applications;Systems+for+Internet+student;Always+shipping+something+new&font=Fira%20Code&center=true&width=500&height=45&color=2563eb&vCenter=true&size=22"/>
 </a>
 
 </div>
 
 <br/>
 
-## 👋 Sobre mim
+## About Me
 
-Sou o Kaique, de Araçariguama - SP. Trampo como Auxiliar Administrativo Júnior na Ibratec (mexendo com sistemas internos, automação e relatórios) e, nas horas vagas, tô sempre construindo projetos pra evoluir como dev front-end. Curto criar interfaces com identidade visual forte — não gosto de fazer projeto "genérico".
+I'm Kaique, a software developer focused on web and mobile development. I enjoy building systems with strong architecture and clean, intentional design — no generic templates.
 
-- 🎓 Cursando Sistemas para Internet na Fatec São Roque
-- 💼 Trabalho com sistemas internos, controle de produção e automação na Ibratec
-- 🥁 Baterista nas horas vagas
-- 🌱 Aprendendo sempre algo novo (JS, automação, POO)
+- Studying Systems for Internet (Fatec)
+- Focused on front-end and full-stack web development
+- Exploring mobile development
+- Always learning something new (JavaScript, automation, OOP)
 
 <br/>
 
-## 🛠️ Stack
+## Tech Stack
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-2563eb?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2563eb?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2563eb?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2563eb?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2563eb?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-2563eb?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2563eb?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
 <br/>
 
-## 🚀 Projetos em destaque
+## Featured Projects
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/kaiquednzz/khronus">
+        <b>Khronus</b>
+      </a>
+      <br/>
+      A fictional industrial ERP built to explore production management, automation and data.
+      <br/>
+      <img src="https://img.shields.io/badge/CSS-2563eb?style=flat-square&logo=css3&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/kaiquednzz/projeto-zuno">
+        <b>Zuno</b>
+      </a>
+      <br/>
+      A premium drum hardware concept — design study focused on minimalism, precision and strong visual identity.
+      <br/>
+      <img src="https://img.shields.io/badge/CSS-2563eb?style=flat-square&logo=css3&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/kaiquednzz/projeto-igreja-iejb">
+        <b>IEJB Website</b>
+      </a>
+      <br/>
+      A front-end project built for a local community website.
+      <br/>
+      <img src="https://img.shields.io/badge/HTML-2563eb?style=flat-square&logo=html5&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/kaiquednzz/projeto-barbearia">
+        <b>Barbershop Landing Page</b>
+      </a>
+      <br/>
+      Institutional site built as a college extension project — Digital Design, Fatec.
+      <br/>
+      <img src="https://img.shields.io/badge/CSS-2563eb?style=flat-square&logo=css3&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## Stats
 
 <div align="center">
 
-<a href="https://github.com/kaiquednzz/khronus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaiquednzz&repo=khronus&theme=dark&hide_border=true&bg_color=1e2327&title_color=00c896" />
-</a>
-<a href="https://github.com/kaiquednzz/projeto-zuno">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaiquednzz&repo=projeto-zuno&theme=dark&hide_border=true&bg_color=1e2327&title_color=00c896" />
-</a>
-<a href="https://github.com/kaiquednzz/projeto-igreja-iejb">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaiquednzz&repo=projeto-igreja-iejb&theme=dark&hide_border=true&bg_color=1e2327&title_color=00c896" />
-</a>
-<a href="https://github.com/kaiquednzz/projeto-barbearia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaiquednzz&repo=projeto-barbearia&theme=dark&hide_border=true&bg_color=1e2327&title_color=00c896" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=kaiquednzz&show_icons=true&theme=dark&hide_border=true&bg_color=0a1128&title_color=2563eb&icon_color=2563eb&text_color=ffffff" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiquednzz&theme=dark&hide_border=true&background=0a1128&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" width="49%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiquednzz&theme=react-dark&bg_color=0a1128&color=2563eb&line=2563eb&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
 <br/>
 
-## 📊 Stats
+## Contact
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaiquednzz&show_icons=true&theme=dark&hide_border=true&bg_color=1e2327&title_color=00c896&icon_color=00c896" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiquednzz&theme=dark&hide_border=true&background=1e2327&ring=00c896&fire=00c896&currStreakLabel=00c896" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiquednzz&theme=react-dark&bg_color=1e2327&color=00c896&line=00c896&point=ffffff&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-## 📫 Contato
-
-<div align="center">
-
-<!-- Troca pelos teus links reais -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINK-AQUI)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-LINK-AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI)
+<!-- Replace with your real links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK-HERE)
+[![Gmail](https://img.shields.io/badge/Gmail-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c896,100:1e2327&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0a1128&height=100&section=footer" width="100%"/>
