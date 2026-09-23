@@ -1,5 +1,4 @@
 <div align="center">
-  
 <a href="https://github.com/kaiquednzz">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+web+%26+mobile+applications;Systems+for+Internet+student;Always+shipping+something+new&font=Fira%20Code&center=true&width=500&height=45&color=2563eb&vCenter=true&size=22"/>
 </a>
