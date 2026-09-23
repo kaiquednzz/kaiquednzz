@@ -1,7 +1,5 @@
 <div align="center">
-
-# Kaique Dev
-
+  
 <a href="https://github.com/kaiquednzz">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+web+%26+mobile+applications;Systems+for+Internet+student;Always+shipping+something+new&font=Fira%20Code&center=true&width=500&height=45&color=2563eb&vCenter=true&size=22"/>
 </a>
@@ -21,7 +19,7 @@ I'm Kaique, a software developer focused on web and mobile development. I enjoy 
 
 <br/>
 
-## Tech Stack
+## Stack
 
 <div align="center">
 
