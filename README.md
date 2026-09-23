@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1128,100:2563eb&height=200&section=header&text=Kaique%20Dev&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20%26%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+# Kaique Dev
 
 <a href="https://github.com/kaiquednzz">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+web+%26+mobile+applications;Systems+for+Internet+student;Always+shipping+something+new&font=Fira%20Code&center=true&width=500&height=45&color=2563eb&vCenter=true&size=22"/>
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm Kaique, a software developer focused on web and mobile development. I enjoy building systems with strong architecture and clean, intentional design — no generic templates.
+I'm Kaique, a software developer focused on web and mobile development. I enjoy building systems with strong architecture and clean, intentional design, no generic templates.
 
 - Studying Systems for Internet (Fatec)
 - Focused on front-end and full-stack web development
@@ -39,48 +39,17 @@ I'm Kaique, a software developer focused on web and mobile development. I enjoy 
 
 ## Featured Projects
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/kaiquednzz/khronus">
-        <b>Khronus</b>
-      </a>
-      <br/>
-      A fictional industrial ERP built to explore production management, automation and data.
-      <br/>
-      <img src="https://img.shields.io/badge/CSS-2563eb?style=flat-square&logo=css3&logoColor=white"/>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/kaiquednzz/projeto-zuno">
-        <b>Zuno</b>
-      </a>
-      <br/>
-      A premium drum hardware concept — design study focused on minimalism, precision and strong visual identity.
-      <br/>
-      <img src="https://img.shields.io/badge/CSS-2563eb?style=flat-square&logo=css3&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/kaiquednzz/projeto-igreja-iejb">
-        <b>IEJB Website</b>
-      </a>
-      <br/>
-      A front-end project built for a local community website.
-      <br/>
-      <img src="https://img.shields.io/badge/HTML-2563eb?style=flat-square&logo=html5&logoColor=white"/>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/kaiquednzz/projeto-barbearia">
-        <b>Barbershop Landing Page</b>
-      </a>
-      <br/>
-      Institutional site built as a college extension project — Digital Design, Fatec.
-      <br/>
-      <img src="https://img.shields.io/badge/CSS-2563eb?style=flat-square&logo=css3&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+### [Khronus](https://github.com/kaiquednzz/khronus)
+A fictional industrial ERP built to explore production management, automation and data.
+
+### [Zuno](https://github.com/kaiquednzz/projeto-zuno)
+A premium drum hardware concept, a design study focused on minimalism, precision and strong visual identity.
+
+### [IEJB Website](https://github.com/kaiquednzz/projeto-igreja-iejb)
+A front-end project built for a local community website.
+
+### [Barbershop Landing Page](https://github.com/kaiquednzz/projeto-barbearia)
+Institutional site built as a college extension project, Digital Design, Fatec.
 
 <br/>
 
@@ -89,7 +58,7 @@ I'm Kaique, a software developer focused on web and mobile development. I enjoy 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kaiquednzz&show_icons=true&theme=dark&hide_border=true&bg_color=0a1128&title_color=2563eb&icon_color=2563eb&text_color=ffffff" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiquednzz&theme=dark&hide_border=true&background=0a1128&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=kaiquednzz&theme=dark&hide_border=true&background=0a1128&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" width="49%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiquednzz&theme=react-dark&bg_color=0a1128&color=2563eb&line=2563eb&point=ffffff&hide_border=true" width="100%"/>
 
@@ -103,6 +72,7 @@ I'm Kaique, a software developer focused on web and mobile development. I enjoy 
 
 <!-- Replace with your real links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK-HERE)
+[![Instagram](https://img.shields.io/badge/Instagram-2563eb?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-LINK-HERE)
 [![Gmail](https://img.shields.io/badge/Gmail-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
 
 </div>
