@@ -1,7 +1,16 @@
 <div align="center">
-<a href="https://github.com/kaiquednzz">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+web+%26+mobile+applications;Systems+for+Internet+student;Always+shipping+something+new&font=Fira%20Code&center=true&width=500&height=45&color=2563eb&vCenter=true&size=22"/>
-</a>
+
+<img align="center" width="100%" style="margin-top:-150px" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&height=100&lines=Kaique+Diniz;Software+Developer" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2800&pause=900&color=60A5FA&background=0D111766&center=true&vCenter=true&width=600&height=50&lines=Building+web+%26+mobile+applications;Systems+for+Internet+student+%40+Fatec;Always+shipping+something+new" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kaiquednzz&label=Profile%20Views&color=2563eb&style=flat" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-2563eb?style=flat&logo=briefcase&logoColor=white" />
+<img src="https://img.shields.io/github/followers/kaiquednzz?label=Followers&style=flat&color=2563eb&logo=github" />
 
 </div>
 
@@ -9,12 +18,13 @@
 
 ## About Me
 
-I'm Kaique, a software developer focused on web and mobile development. I enjoy building systems with strong architecture and clean, intentional design, no generic templates.
-
-- Studying Systems for Internet (Fatec)
-- Focused on front-end and full-stack web development
-- Exploring mobile development
-- Always learning something new (JavaScript, automation, OOP)
+```js
+const kaique = {
+  role: "Software Developer",
+  focus: ["Web Development", "Mobile Development"],
+  education: "Systems for Internet @Fatec",
+};
+```
 
 <br/>
 
@@ -34,40 +44,69 @@ I'm Kaique, a software developer focused on web and mobile development. I enjoy 
 
 <br/>
 
-## Featured Projects
-
-### [Khronus](https://github.com/kaiquednzz/khronus)
-A fictional industrial ERP built to explore production management, automation and data.
-
-### [Zuno](https://github.com/kaiquednzz/projeto-zuno)
-A premium drum hardware concept, a design study focused on minimalism, precision and strong visual identity.
-
-### [IEJB Website](https://github.com/kaiquednzz/projeto-igreja-iejb)
-A front-end project built for a local community website.
-
-### [Barbershop Landing Page](https://github.com/kaiquednzz/projeto-barbearia)
-Institutional site built as a college extension project, Digital Design, Fatec.
-
-<br/>
-
-## Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaiquednzz&show_icons=true&theme=dark&hide_border=true&bg_color=0a1128&title_color=2563eb&icon_color=2563eb&text_color=ffffff" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=kaiquednzz&theme=dark&hide_border=true&background=0a1128&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" width="49%"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaiquednzz&show_icons=true&hide_border=true&theme=tokyonight&title_color=60A5FA&icon_color=60A5FA&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquednzz&layout=compact&hide_border=true&theme=tokyonight&title_color=60A5FA&bg_color=0D1117"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiquednzz&theme=react-dark&bg_color=0a1128&color=2563eb&line=2563eb&point=ffffff&hide_border=true" width="100%"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=kaiquednzz&hide_border=true&theme=tokyonight&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA"/>
 
 </div>
 
 <br/>
 
+## Featured Projects
+
+<details open>
+<summary><b>🏭 Khronus</b> — Industrial ERP concept</summary>
+<br/>
+A fictional industrial ERP built to explore production management, automation and data.
+<br/><br/>
+<a href="https://github.com/kaiquednzz/khronus">→ View repository</a>
+</details>
+
+<br/>
+
+<details>
+<summary><b>🥁 Zuno</b> — Drum hardware design study</summary>
+<br/>
+A premium drum hardware concept, focused on minimalism, precision and strong visual identity.
+<br/><br/>
+<a href="https://github.com/kaiquednzz/projeto-zuno">→ View repository</a>
+</details>
+
+<br/>
+
+<details>
+<summary><b>⛪ IEJB Website</b> — Community front-end</summary>
+<br/>
+A front-end project built for a local community website.
+<br/><br/>
+<a href="https://github.com/kaiquednzz/projeto-igreja-iejb">→ View repository</a>
+</details>
+
+<br/>
+
+<details>
+<summary><b>💈 Barbershop Landing Page</b> — College extension project</summary>
+<br/>
+Institutional site built as a college extension project, Digital Design, Fatec.
+<br/><br/>
+<a href="https://github.com/kaiquednzz/projeto-barbearia">→ View repository</a>
+</details>
+
+<br/>
+
+
 ## Contact
 
 <div align="center">
 
-<!-- Replace with your real links -->
+<!-- Substitua pelos seus links reais -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK-HERE)
 [![Instagram](https://img.shields.io/badge/Instagram-2563eb?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-LINK-HERE)
 [![Gmail](https://img.shields.io/badge/Gmail-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
