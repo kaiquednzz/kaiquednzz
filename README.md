@@ -30,16 +30,6 @@ class Kaique:
 
 <br/>
 
-## Areas of Focus
-
-| 🌐 Web Development | ⚙️ Back-end | 📱 Mobile & Automation |
-| --- | --- | --- |
-| Responsive interfaces | Python & Flask | Exploring mobile development |
-| HTML, CSS, JavaScript | Authentication & sessions | Python scripts & automation |
-| Figma to code | Relational database modeling | Voice-controlled assistants |
-
-<br/>
-
 ## Skills
 
 ### 🌐 Front-end
@@ -109,9 +99,9 @@ A front-end website built for a local community.
 <div align="center">
 
 <!-- Replace with your real links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK-HERE)
-[![Instagram](https://img.shields.io/badge/Instagram-2563eb?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-LINK-HERE)
-[![Email](https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaiquednzz)
+[![Instagram](https://img.shields.io/badge/Instagram-2563eb?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaiquednzz)
+[![Email](https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiquednzz@gmail.com)
 
 </div>
 
