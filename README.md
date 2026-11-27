@@ -76,6 +76,18 @@ A private web app, **live in production**, that runs the day-to-day of a church:
 
 ### 🤖 AI-assisted Development
 
+<div align="left">
+
+<a href="https://claude.ai/code">
+  <img src="https://devicons.io/devicons/icons/claude-code.svg" alt="Claude Code" height="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://openai.com/codex/">
+  <img src="https://devicons.io/devicons/icons/codex-icon.svg" alt="OpenAI Codex" height="48"/>
+</a>
+
+</div>
+
 Exploring agentic software development with **Claude Code** as my primary coding agent, alongside **OpenAI Codex**. I focus on using and configuring practical workflows around context engineering, skills, plugins, MCP servers and external connectors — bringing agents into codebase exploration, planning, implementation and code review, with human validation throughout.
 
 `Claude Code` • `OpenAI Codex` • `Agentic workflows` • `Context engineering` • `Skills & plugins` • `MCP servers` • `External connectors` • `AI-assisted code review`
