@@ -83,7 +83,7 @@ A private web app, **live in production**, that runs the day-to-day of a church:
 </a>
 &nbsp;&nbsp;
 <a href="https://openai.com/codex/">
-  <img src="https://devicons.io/devicons/icons/codex-icon.svg" alt="OpenAI Codex" height="48"/>
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex-color.svg" alt="OpenAI Codex" height="48"/>
 </a>
 
 </div>
