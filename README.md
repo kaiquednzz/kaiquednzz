@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&height=100&lines=Kaique;Full+Stack+Developer;I+build+things+people+use" alt="Kaique, Full Stack Developer"/>
 </a>
 
-**Web Apps • PWAs • PostgreSQL & Supabase • Python & Flask • Automation**
+**Web Apps • PWAs • PostgreSQL & Supabase • Python & Flask • AI-assisted Development**
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-Internship%20%2F%20Junior-2563eb?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to work: internship or junior"/>
 
@@ -25,6 +25,7 @@ class Kaique:
         self.education = "Systems for Internet @ FATEC"
         self.shipping = "IEJB Hub, a PWA in production used by a real community"
         self.focus = ["Web apps & PWAs", "PostgreSQL + Supabase", "Security by design", "Python & Flask"]
+        self.ai_tooling = ["Claude Code", "OpenAI Codex", "Agentic workflows", "Skills, plugins & MCP integrations"]
         self.learning = ["APIs", "Mobile", "Information security", "English"]
         self.looking_for = "Internship / Junior Developer opportunities"
 ```
@@ -72,6 +73,12 @@ A private web app, **live in production**, that runs the day-to-day of a church:
 ![](https://skillicons.dev/icons?i=python,flask,postgres,supabase)
 
 `PostgreSQL` • `Supabase` • `Row Level Security` • `Python` • `Flask` • `Database modeling` • `SQL testing`
+
+### 🤖 AI-assisted Development
+
+Exploring agentic software development with **Claude Code** as my primary coding agent, alongside **OpenAI Codex**. I focus on using and configuring practical workflows around context engineering, skills, plugins, MCP servers and external connectors — bringing agents into codebase exploration, planning, implementation and code review, with human validation throughout.
+
+`Claude Code` • `OpenAI Codex` • `Agentic workflows` • `Context engineering` • `Skills & plugins` • `MCP servers` • `External connectors` • `AI-assisted code review`
 
 ### 🛠️ Tools
 
