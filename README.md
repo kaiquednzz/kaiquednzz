@@ -64,9 +64,9 @@ A private web app, **live in production**, that runs the day-to-day of a church:
 
 ### 🌐 Front-end
 
-![](https://skillicons.dev/icons?i=html,css,js,vite,figma)
+![](https://skillicons.dev/icons?i=html,css,js,vite)
 
-`HTML` • `CSS` • `JavaScript` • `PWA` • `Responsive design` • `Accessibility` • `Figma`
+`HTML` • `CSS` • `JavaScript` • `PWA` • `Responsive design` • `Accessibility`
 
 ### ⚙️ Back-end & Data
 
