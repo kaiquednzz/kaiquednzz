@@ -79,11 +79,11 @@ A private web app, **live in production**, that runs the day-to-day of a church:
 <div align="left">
 
 <a href="https://claude.ai/code">
-  <img src="https://devicons.io/devicons/icons/claude-code.svg" alt="Claude Code" height="48"/>
+  <img src="https://raw.githubusercontent.com/kaiquednzz/kaiquednzz/main/assets/icons/claude.svg" alt="Claude" width="48" height="48"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://openai.com/codex/">
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex-color.svg" alt="OpenAI Codex" height="48"/>
+  <img src="https://raw.githubusercontent.com/kaiquednzz/kaiquednzz/main/assets/icons/codex.svg" alt="OpenAI Codex" width="48" height="48"/>
 </a>
 
 </div>
